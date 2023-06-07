@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on NTT-Data as Senior Developer.
-- 🌱 I’m currently learning Python & Flutter.
-- 👯 I’m looking to collaborate on Angular, Ionic, Laravel.
+- 🔭 I’m currently working on NTT-Data as Senior Developer, and other freelance projects.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Angular, Ionic, Flutter projects.
 - ⚡ Other fact: I speak Brazilian Portuguese, English and Spanish, I Love SkateBoarding
 
