@@ -19,8 +19,6 @@ Here are some ideas to get you started:-->
 
 **Infra**
 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-FDC624?style=for-the-badge&logo=firebase&logoColor=black)
@@ -55,6 +53,12 @@ Here are some ideas to get you started:-->
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20photoshop-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**SO**
+
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Find Me Elsewhere 
 
